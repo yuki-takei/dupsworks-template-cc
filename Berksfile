@@ -1,6 +1,7 @@
 site :opscode
 
 cookbook "python", "= 1.4.6"
+cookbook "cron", "= 1.3.6"
 
 cookbook "timezone", git: "https://github.com/weseek/chef-timezone"
 cookbook "awscli", git: "https://github.com/weseek/chef-awscli"
