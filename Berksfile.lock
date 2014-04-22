@@ -1,0 +1,50 @@
+{
+  "sources": {
+    "python": {
+      "locked_version": "1.4.6"
+    },
+    "timezone": {
+      "locked_version": "0.0.2",
+      "git": "https://github.com/weseek/chef-timezone",
+      "ref": "deadc1e54d382cc0c6bc2775eb70e42e136bccc1"
+    },
+    "awscli": {
+      "locked_version": "0.1.0",
+      "git": "https://github.com/weseek/chef-awscli",
+      "ref": "010ca5b541b068492e751e1c14e03c21726200bc"
+    },
+    "databag-util": {
+      "locked_version": "0.1.0",
+      "git": "https://github.com/weseek/chef-databag-util",
+      "ref": "920db9822febe31c644d45941f1b622d2e74f9c4"
+    },
+    "ec2util": {
+      "locked_version": "0.1.0",
+      "git": "https://github.com/weseek/chef-ec2util",
+      "ref": "fd55088d089c3c6a9c362d46f2a313c33bb07b92"
+    },
+    "vpcnat": {
+      "locked_version": "1.2.2",
+      "git": "https://github.com/weseek/chef-vpcnat",
+      "ref": "c559ab4aea7faf12a4d479c0c6b0bb8b2804b0e3"
+    },
+    "build-essential": {
+      "locked_version": "2.0.0"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.6"
+    },
+    "yum": {
+      "locked_version": "3.2.0"
+    },
+    "sysctl": {
+      "locked_version": "0.4.0"
+    },
+    "iptables": {
+      "locked_version": "0.13.2"
+    },
+    "cron": {
+      "locked_version": "1.3.6"
+    }
+  }
+}
