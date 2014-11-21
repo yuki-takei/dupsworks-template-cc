@@ -1,5 +1,4 @@
 site :opscode
-metadata
 
 cookbook "sysctl", "= 0.4.0"
 cookbook "iptables", "= 0.13.2"
