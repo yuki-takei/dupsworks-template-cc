@@ -1,4 +1,4 @@
-site :opscode
+source "https://api.berkshelf.com"
 
 cookbook "awscli", git: "https://github.com/weseek/chef-awscli"
 cookbook "databag-util", git: "https://github.com/weseek/chef-databag-util"
